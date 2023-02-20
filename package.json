@@ -6,8 +6,7 @@
   "main": "dist/index.js",
   "homepage": "https://marci-garcia.com",
   "peerDependencies": {
-    "react": ">=18.2.0",
-    "typescript": ">=4.9.3"
+    "react": ">=18.2.0"
   },
   "repository": {
     "url": "https://github.com/InfoMarcy/react-storybook-exaample.git",
