@@ -42,3 +42,5 @@ export const MyLabel = ({
     </span>
   );
 };
+
+export default MyLabel;
