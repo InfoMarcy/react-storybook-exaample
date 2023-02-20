@@ -1,4 +1,4 @@
-import { Meta, StoryFn, StoryObj } from "@storybook/react";
+import { Meta, StoryFn } from "@storybook/react";
 import { MyLabel } from "../../components/MyLabel";
 
 const meta = {
@@ -14,7 +14,6 @@ const meta = {
 } satisfies Meta<typeof MyLabel>;
 
 export default meta;
-type Story = StoryObj<typeof meta>;
 
 const Template: StoryFn<typeof MyLabel> = (args) => <MyLabel {...args} />;
 
