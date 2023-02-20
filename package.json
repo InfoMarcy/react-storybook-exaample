@@ -10,7 +10,7 @@
     "typescript": ">=4.9.3"
   },
   "repository": {
-    "url": "https://github.com/InfoMarcy/react-storybook-exaample",
+    "url": "https://github.com/InfoMarcy/react-storybook-exaample.git",
     "type": "git"
   },
   "release": {
