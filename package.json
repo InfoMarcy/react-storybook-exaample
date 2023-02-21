@@ -2,8 +2,8 @@
   "name": "mg-vite-storybook-component",
   "private": false,
   "license": "MIT",
-  "typings": "dist/index.d.ts",
-  "main": "dist/main.js",
+  "main": "dist/main",
+  "typings": "dist/main.d.ts",
   "homepage": "https://marci-garcia.com",
   "peerDependencies": {
     "react": ">=18.2.0"

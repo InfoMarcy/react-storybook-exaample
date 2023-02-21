@@ -7,3 +7,4 @@ const MyLabel = ({ allCaps = false, color = "primary", label = "No Label", size 
     return ((0, jsx_runtime_1.jsx)("span", { className: `label ${size} text-${color}`, style: { color: fontColor }, children: allCaps ? label.toUpperCase() : label }));
 };
 exports.MyLabel = MyLabel;
+exports.default = exports.MyLabel;
